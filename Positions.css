@@ -1,0 +1,64 @@
+p{
+    position: fixed;
+    background-color: red;
+    color:black;
+    padding: 5px;
+    display: block;
+    width: 100%;
+    text-align: center;
+    top:0;
+    scroll-behavior:auto;
+}
+.first{
+    top:0%;
+    position:left;
+    margin-top: 50px;
+    left:0;
+}
+.second{
+    float:right;
+    margin-top: 50px;
+}
+.third{
+    position:left;
+    margin-top: 20px;
+    left:0;
+}
+.fourth{
+    float:right;
+    margin-top: 20px;
+}
+.fifth{
+    z-index: -1;
+    position:absolute;
+    left: 550px;
+    width: 350px;
+    top: 50%;
+    border-radius: 10px;
+}
+.sixth{
+    float:left;
+    margin-top: 0%;
+    padding-left: 0%;
+}
+.seventh{
+    float:right;
+    padding-top: 0%;
+    top:5rem;
+}
+.eigth{
+    position: absolute;
+    float: right;
+    right: 10px;
+    padding-top: 0%;
+    top: 43rem;
+    margin-top: 0;
+}
+.ninth{
+    position: absolute;
+    float: left;
+    left: 10px;
+    padding-top: 0%;
+    top: 43rem;
+    margin-top: 0;
+}
